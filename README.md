@@ -11,4 +11,4 @@ Instructions (run in terminal/powershell/bash):
 2. cd denislavdssreact
 3. npm install
 4. npm run dev
-(now go to http://localhost:5173) 
+5. (now go to http://localhost:5173) 
