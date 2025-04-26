@@ -1,4 +1,4 @@
-# denislavdssreact
+# Денислав Николаев Николов 37б 121223102
 Screenshot:
 ![image](https://github.com/user-attachments/assets/759d5833-20a1-4469-ac13-596b0b3ec3e0)
 
@@ -12,5 +12,3 @@ Instructions (run in terminal/powershell/bash):
 3. npm install
 4. npm run dev
 (now go to http://localhost:5173) 
-
-Денислав Николаев Николов 37б 121223102
